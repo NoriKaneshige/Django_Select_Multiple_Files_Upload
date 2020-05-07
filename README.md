@@ -2,4 +2,4 @@
 
 [referred blog](https://narito.ninja/blog/detail/92/#_6)
 
-![]()
+![select-multiple-files-upload](select-multiple-files-upload.gif)
